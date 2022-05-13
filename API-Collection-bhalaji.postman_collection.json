@@ -1,0 +1,38 @@
+{
+	"info": {
+		"_postman_id": "871f3813-930a-46d3-a5e9-dab42f822bcb",
+		"name": "API-Collection-bhalaji",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "GET checkcondtions",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "POSTverifychanges",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": "{{link1}}/users"
+			},
+			"response": []
+		},
+		{
+			"name": "PUTverifychanges",
+			"request": {
+				"method": "PUT",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
